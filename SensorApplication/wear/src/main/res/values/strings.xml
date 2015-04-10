@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sensor Application</string>
+    <string name="hello_round">Hello Round World!</string>
+    <string name="hello_square">Hello Square World!</string>
+    <string name="kasokudo">加速度</string>
+    <string name="jairo">ジャイロセンサー</string>
+</resources>
